@@ -4,7 +4,7 @@ Auto input level for [Memrise](https://www.memrise.com/)
 
 ## Install
 
-1. Required: **Nodejs**
+Required: **Nodejs**
 
 ```bash
 yarn add puppeteer axios
