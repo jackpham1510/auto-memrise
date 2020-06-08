@@ -13,7 +13,7 @@ yarn add puppeteer axios
 ## Run
 
 ```bash
-yarn start ./input/level_1.json
+yarn start ./input/level_1.json 
 ```
 
 ## Input format
